@@ -13,5 +13,5 @@ There's not really much new I could tell you here: Feel free to check out the pr
 
 ---
 
-My recent blog posts:
+**My recent blog posts:** (updated daily)
 {{BLOG_POSTS}}

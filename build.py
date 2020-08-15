@@ -14,7 +14,7 @@ for entry in feed.entries:
 		break
 
 	article_link = entry.link.split("/?")[0] + "/"
-	blogPostsContent += ('- {}: ({})[{}]\n'.format(time.strftime("%Y-%m-%d %H:00 %Z", entry.published_parsed), entry.title, article_link))
+	blogPostsContent += ('- {}: <a href="{}" target="_blank">{}</a>\n'.format(time.strftime("%Y-%m-%d %H:00 %Z", entry.published_parsed), article_link, entry.title))
 	curCount += 1
 
 blogPostsContent = blogPostsContent.strip()
