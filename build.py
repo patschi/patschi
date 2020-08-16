@@ -1,6 +1,9 @@
 #!/usr/bin/python3
 
-import feedparser, time, sys
+import sys, os, time, datetime
+import feedparser
+
+os.environ['TZ'] = 'UTC'
 
 print("Pulling blog posts...")
 feed = feedparser.parse("https://patrik.kernstock.net/feed/")
@@ -22,14 +25,18 @@ if blogPostsContent == "":
 	print("Blog content empty.")
 	sys.exit(1)
 
+currentTime = datetime.datetime.now(tz=datetime.timezone.utc)
+lastUpdate = currentTime.strftime("%Y-%m-%d %H:%m %Z")
+
 print("Preparing files...")
 # read template
 tmplFile = open("README.tmpl.md", "r")
-template = tmplFile.read()
+newREADME = tmplFile.read()
 tmplFile.close()
 
 # replace placeholders
-newREADME = template.replace("{{BLOG_POSTS}}", blogPostsContent)
+newREADME = newREADME.replace("{{BLOG_POSTS}}", blogPostsContent)
+newREADME = newREADME.replace("{{BLOG_POSTS_LASTUPDATE}}", lastUpdate)
 
 # load current file
 oldFile = open("README.md", "r")
