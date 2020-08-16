@@ -26,7 +26,7 @@ if blogPostsContent == "":
 	sys.exit(1)
 
 currentTime = datetime.datetime.now(tz=datetime.timezone.utc)
-lastUpdate = currentTime.strftime("%Y-%m-%d %H:%m %Z")
+lastUpdate = currentTime.strftime("%Y-%m-%d %H:%M %Z")
 
 print("Preparing files...")
 # read template
