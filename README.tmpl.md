@@ -1,10 +1,12 @@
 ## Hi there, I'm Patrik!
 
 <p align="center">
+    👉
     <a href="https://patrik.kernstock.net">Blog</a> •
     <a href="https://patrik.kernstock.io">Portfolio-ish</a> •
     <a href="https://twitter.com/Patschi95">Twitter</a> •
     <a href="https://www.linkedin.com/in/pkernstock/">LinkedIn</a>
+    👈
 </p> 
 
 ---
