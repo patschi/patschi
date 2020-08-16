@@ -1,4 +1,4 @@
-## Hi there, I'm Patrik!
+## Hi there, I'm Patrik! 👋
 
 <p align="center">
     👉
