@@ -15,11 +15,11 @@ I enjoy contributing to various awesome projects in different ways. I am *not* a
 
 ---
 
-📕 **Latest Blog Posts** (updated daily, last update: 2020-08-25 00:33 UTC)
+📕 **Latest Blog Posts** (updated daily, last update: 2020-08-26 00:33 UTC)
+- 2020-08-25 17:00 UTC: <a href="https://patrik.kernstock.net/2020/08/mailpiler-installation-guide/" target="_blank">mailpiler installation guide</a>
 - 2020-07-28 16:00 UTC: <a href="https://patrik.kernstock.net/2020/07/lets-panic-esxi-failover-not-working-using-static-lag-etherchannel/" target="_blank">Let’s Panic: ESXi failover not working, using Static LAG/etherchannel</a>
 - 2020-07-24 22:00 UTC: <a href="https://patrik.kernstock.net/2020/07/quick-tip-nsx-t-3-0-removing-vibs-manually-from-esxi-host/" target="_blank">Quick Tip: NSX-T 3.0: Removing VIBs manually from ESXi host</a>
 - 2020-03-27 12:00 UTC: <a href="https://patrik.kernstock.net/2020/03/horizon-agent-installation-fails-at-vm_blastudpreserveports/" target="_blank">Horizon Agent: Installation fails at VM_BlastUDPReservePorts</a>
 - 2020-03-22 12:00 UTC: <a href="https://patrik.kernstock.net/2020/03/vmware-fah-appliance-making-of-fh-stats/" target="_blank">VMware FAH Appliance: Making Of F@H-Stats</a>
-- 2020-03-21 13:00 UTC: <a href="https://patrik.kernstock.net/2020/03/vmware-appliance-for-folding-at-home/" target="_blank">VMware Appliance for Folding@Home</a>
 
 [➡️ more blog posts...](https://patrik.kernstock.net)
