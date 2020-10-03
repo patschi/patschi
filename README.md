@@ -15,7 +15,7 @@ I enjoy contributing to various awesome projects in different ways. I am *not* a
 
 ---
 
-📕 **Latest Blog Posts** (updated daily, last update: 2020-10-02 00:41 UTC)
+📕 **Latest Blog Posts** (updated daily, last update: 2020-10-03 00:41 UTC)
 - 2020-09-12 19:00 UTC: <a href="https://patrik.kernstock.net/2020/09/quick-tip-use-usb-storage-devices-as-datastore/" target="_blank">Quick Tip: Use USB storage devices as datastore on VMware ESXi</a>
 - 2020-08-25 17:00 UTC: <a href="https://patrik.kernstock.net/2020/08/mailpiler-installation-guide/" target="_blank">mailpiler installation guide</a>
 - 2020-07-28 16:00 UTC: <a href="https://patrik.kernstock.net/2020/07/lets-panic-esxi-failover-not-working-using-static-lag-etherchannel/" target="_blank">Let’s Panic: ESXi failover not working, using Static LAG/etherchannel</a>
