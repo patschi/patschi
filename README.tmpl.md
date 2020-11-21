@@ -15,7 +15,7 @@ I enjoy contributing to various awesome projects in different ways. I am *not* a
 
 ---
 
-📕 **Latest Blog Posts** (updated daily, last update: {{BLOG_POSTS_LASTUPDATE}})
+📕 **Latest Blog Posts**
 {{BLOG_POSTS}}
 
 [➡️ more blog posts...](https://patrik.kernstock.net)
