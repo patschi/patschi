@@ -16,7 +16,7 @@ for entry in feed.entries:
 	if curCount > maxCount:
 		break
 
-	article_link = entry.link.split("/?")[0] + "/"
+	article_link = entry.link.split("/?")[0]
 	blogPostsContent += ('- {}: <a href="{}" target="_blank">{}</a>\n'.format(time.strftime("%Y-%m-%d %H:00 %Z", entry.published_parsed), article_link, entry.title))
 	curCount += 1
 
