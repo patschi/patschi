@@ -20,6 +20,6 @@ I enjoy contributing to various awesome projects in different ways. I am *not* a
 - 2020-12-01 13:00 UTC: <a href="https://patrik.kernstock.net/2020/12/solved-mystery-drs-powering-on-vm-fails-with-insufficient-resources/" target="_blank">Solved Mystery: DRS, Powering On VM fails with “insufficient resources”</a>
 - 2020-11-29 01:00 UTC: <a href="https://patrik.kernstock.net/2020/11/vcenter-7-0-lifecycle-manager-fails-downloading-depot-metadata-proxy/" target="_blank">vCenter 7.0, Lifecycle Manager fails downloading depot metadata & proxy</a>
 - 2020-09-12 19:00 UTC: <a href="https://patrik.kernstock.net/2020/09/quick-tip-use-usb-storage-devices-as-datastore/" target="_blank">Quick Tip: Use USB storage devices as datastore on VMware ESXi</a>
-- 2020-08-25 17:00 UTC: <a href="https://patrik.kernstock.net/2020/08/mailpiler-installation-guide/" target="_blank">mailpiler installation guide</a>
+- 2020-08-25 17:00 UTC: <a href="https://patrik.kernstock.net/2020/08/mailpiler-installation-guide/" target="_blank">piler installation guide</a>
 
 [➡️ more blog posts...](https://patrik.kernstock.net)
